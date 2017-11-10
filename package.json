@@ -1,0 +1,13 @@
+{
+  "id": "upwork",
+  "name": "Upwork",
+  "version": "0.1.0",
+  "description": "Upwork",
+  "main": "index.js",
+  "author": "Joshua Bemenderfer <tribex10@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.upwork.com/messages",
+    "hasNotificationSound": true
+  }
+}
