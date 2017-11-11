@@ -7,7 +7,7 @@
   "author": "Joshua Bemenderfer <tribex10@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://www.upwork.com/messages",
+    "serviceURL": "https://dash.upwork.com/",
     "hasNotificationSound": true
   }
 }
